@@ -1,0 +1,18 @@
+{
+  "name": "insta_downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ranvijay Kumar",
+  "license": "ISC",
+  "description": "Instagram reel downloader",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "qs": "^6.12.1"
+  }
+}
